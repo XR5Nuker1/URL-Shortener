@@ -30,3 +30,5 @@ Step4: Copy these values
 
 **DEVELOPER**👩‍🚒
 
+<p align="middle">
+<img src="" width="150" height="150"><br>
