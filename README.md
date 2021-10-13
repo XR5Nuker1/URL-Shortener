@@ -31,4 +31,6 @@ Step4: Copy these values
 **DEVELOPER**👩‍🚒
 
 <p align="middle">
-<img src="" width="150" height="150"><br>
+<img src="https://telegra.ph/file/5ba661dc6b718c0948d70.jpg" width="150" height="150"><br>
+ℹ️Name: [Λⓨⓔⓝⓣⓘⓦⓔ](t.me/ironcloneX)
+🤖 Other Bots: [**XR5 Bot List**](https://t.me/joinchat/GVto-yy9-cE0OWU8)
