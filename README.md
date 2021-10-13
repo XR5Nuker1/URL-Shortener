@@ -17,4 +17,11 @@ Like this 👇
 
 Step4: Copy these values
 
+[Command "*"](https://github.com/XR5Nuker1/URL-Shortener/blob/main/command%20%20%22*%22)
+Command "onSuccess"](https://github.com/XR5Nuker1/URL-Shortener/blob/main/command%20%22onSuccess)
+
+**Copy value as it is to avoid any problems**
+
+**Step5** press launch bot (make sure you have entered the bot API token)
+
 
